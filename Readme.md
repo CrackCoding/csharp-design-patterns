@@ -1,7 +1,6 @@
 Design patterns in C#
 ===================
-
-![](https://travis-ci.org/CrackCoding/csharp-design-patterns.svg?branch=master)
+![](https://ci.appveyor.com/api/projects/status/w6athnghpv7k0h51)
 
 ## Introduction
 This repository contain base and extended patterns. 
