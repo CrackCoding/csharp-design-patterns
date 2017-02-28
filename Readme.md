@@ -1,4 +1,5 @@
-# Design patterns in C#
+Design patterns in C#
+===================
 
 ![](https://travis-ci.org/CrackCoding/csharp-design-patterns.svg?branch=master)
 
