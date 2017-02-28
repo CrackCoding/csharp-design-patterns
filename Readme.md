@@ -1,5 +1,7 @@
 # Design patterns in C#
 
+![](https://travis-ci.org/CrackCoding/csharp-design-patterns.svg?branch=master)
+
 ## Introduction
 This repository contain base and extended patterns. 
 Software design patterns can solve common problems with design systems and applications
