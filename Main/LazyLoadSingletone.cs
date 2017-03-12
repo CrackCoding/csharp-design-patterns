@@ -8,19 +8,19 @@ namespace Main
     /// <summary>
     /// Lazy load implementation of singletone
     /// </summary>
-    public sealed class LazyLoadSingleton
+    public sealed class LazyLoadSingletone
     {
-        private static readonly Lazy<LazyLoadSingleton> lazy =
-            new Lazy<LazyLoadSingleton>(() => new LazyLoadSingleton());
+        private static readonly Lazy<LazyLoadSingletone> lazy =
+            new Lazy<LazyLoadSingletone>(() => new LazyLoadSingletone());
 
         /// <summary>
         /// Empty private constrictor to prevent direct instantiation
         /// </summary>
-        private LazyLoadSingleton() { }
+        private LazyLoadSingletone() { }
 
         /// <summary>
         /// Property accessor for instance
         /// </summary>
-        public static LazyLoadSingleton Instance => lazy.Value;
+        public static LazyLoadSingletone Instance => lazy.Value;
     }
 }
