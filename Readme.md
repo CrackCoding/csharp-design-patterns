@@ -1,6 +1,4 @@
-Design patterns in C#
-===================
-[![](https://ci.appveyor.com/api/projects/status/w6athnghpv7k0h51)](https://ci.appveyor.com/project/alexcmd/csharp-design-patterns)
+# Design patterns in C#
 
 ## Introduction
 This repository contain base and extended patterns. 
